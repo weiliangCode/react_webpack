@@ -18,7 +18,7 @@ export default class HeaderCom extends React.Component{
 	render(){
 		return (
 			<header>
-				<h1>首页</h1>
+				<h1>首页111</h1>
 			</header>
 		)
 	}
